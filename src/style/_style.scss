@@ -1,0 +1,16 @@
+body {
+	background-color: $background-color;
+	color: $text-color;
+	font-family: 'Arboria-Book';
+	display: flex;
+}
+
+.image {
+	background-image: url('img/element5-digital-Xf7o2W7qgP0-unsplash.jpg');
+	display: flex;
+	width: 400px;
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
